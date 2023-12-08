@@ -1,11 +1,14 @@
-### Hi there 👋
+### -> Hello there 👋
 
-<!--
-**Rafid46/Rafid46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Rafid46/Rafid46/main/6611363_3374958.jpg">
 
-Here are some ideas to get you started:
+<p align="center" margin-top="10">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rafid46&theme=tokyonight&border_radius=5.8&card_width=469" alt="GitHub Streak" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
+### -> current overview
+
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongo,html,js,css,express,firebase,git" />
+  </a>
+</p>
