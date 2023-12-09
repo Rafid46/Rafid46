@@ -8,7 +8,8 @@
 
 ### -> current overview
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on- Next js. Excited about the endless possibilities that Next.js brings to the table.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,3 +23,5 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongo,html,js,css,express,firebase,git" />
   </a>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=Rafid46&show_icons=true&theme=monokai)
