@@ -1,8 +1,8 @@
 ### -> Hello there 👋
 
-<img src="https://raw.githubusercontent.com/Rafid46/Rafid46/main/6611363_3374958.jpg">
+<img src="https://raw.githubusercontent.com/Rafid46/Rafid46/main/cover%202.jpg">
 
-<p align="center" margin-top="10">
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rafid46&theme=tokyonight&border_radius=5.8&card_width=469" alt="GitHub Streak" /></a>
 </p>
 
