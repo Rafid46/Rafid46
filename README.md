@@ -24,4 +24,8 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Rafid46&show_icons=true&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=Rafid46&show_icons=true&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafid46&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafid46&theme=2077)
