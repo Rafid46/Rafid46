@@ -28,4 +28,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafid46&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafid46&theme=2077)
+<p align="center">
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafid46&theme=2077" alt="GitHub Streak" /></a>
+</p>
