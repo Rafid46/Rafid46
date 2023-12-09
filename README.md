@@ -6,7 +6,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rafid46&theme=tokyonight&border_radius=5.8&card_width=469" alt="GitHub Streak" /></a>
 </p>
 
-### 🌐 current overview
+## 🌐 current overview
 
 <p  align="center">
   👋 Hi, I'm Rafid, a CSE student diving into the world of web development! Currently exploring the realms of MongoDB, Express, and Node.js. Proficient in HTML, CSS, and JavaScript, I'm passionate about frontend development and continuously honing my skills. Excited about creating captivating designs and exploring the endless possibilities of web development. Let's code and innovate together! </p>
